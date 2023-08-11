@@ -9,9 +9,7 @@
 
 Привет, меня зовут Сергей, я работаю экспертом-криминалистом. Решил круто поменять жизнь) Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
-<br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
   
 **Languages and Tools:**  
 
